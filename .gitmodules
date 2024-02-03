@@ -1,0 +1,6 @@
+[submodule "pantra-app"]
+	path = pantra-app
+	url = https://github.com/codergon/pantra-app
+[submodule "pantra-contracts"]
+	path = pantra-contracts
+	url = https://github.com/Tee-py/pantra-contracts
