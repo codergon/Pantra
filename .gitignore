@@ -1,0 +1,9 @@
+# OSX
+#
+.DS_Store
+
+# macOS
+.DS_Store
+*.pem
+.vscode
+.bundle
